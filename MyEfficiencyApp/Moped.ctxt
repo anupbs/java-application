@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Moped
+comment1.params=
+comment1.target=Moped()
+comment1.text=\r\n\ Constructor\ for\ class\ Moped\r\n\ @param\ This\ method\ does\ not\ take\ any\ formal\ parameter\ \r\n\ @return\ This\ method\ does\ not\ return\ any\ value\r\n
+comment2.params=id\ noOfDays\ noOfDeliveries\ valOfDeliveries\ milesCovered
+comment2.target=Moped(java.lang.String,\ int,\ int,\ double,\ double)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ Moped\r\n\ @param\ This\ method\ takes\ a\ formal\ parameter\ Id\ of\ string\ datatype\r\n\ @param\ This\ method\ takes\ a\ formal\ parameter\ noOfDays\ of\ int\ datatype\r\n\ @param\ This\ method\ takes\ a\ formal\ parameter\ noOfDeliveries\ of\ int\ datatype\r\n\ @param\ This\ method\ takes\ a\ formal\ parameter\ valOfDeliveries\ of\ double\ datatype\r\n\ @param\ This\ method\ takes\ a\ formal\ parameter\ milesCovered\ of\ double\ datatype\r\n\ @return\ This\ method\ does\ not\ return\ any\ value\r\n
+comment3.params=
+comment3.target=double\ getFuelCost()
+comment4.params=
+comment4.target=int\ getAvgCostOfRunning()
+comment5.params=
+comment5.target=double\ getEfficiency()
+comment6.params=
+comment6.target=void\ calculateEfficiency()
+comment6.text=\r\n\ Mutator\ Method\ to\ calculate\ efficiency\ of\ a\ Moped\ \r\n\ @param\ This\ method\ does\ not\ take\ any\ parameter\r\n\ @return\ This\ method\ does\ not\ return\ any\ value\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ Method\ to\ display\ all\ the\ details\ of\ a\ Moped\ \r\n\ @param\ This\ method\ does\ not\ take\ any\ parameter\r\n\ @return\ This\ method\ does\ return\ a\ value\ of\ string\ datatype\r\n
+numComments=8
